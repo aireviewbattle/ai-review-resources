@@ -8,8 +8,7 @@ This repository contains a curated list of AI tools, platforms, and reviews to h
 Check out detailed AI reviews on [AI Review Battle](https://aireviewbattle.com).
 
 ## AI Tools List
-- OpenAI GPT
-- ChatGPT Alternatives
-- AI Image Generators
-- AI Code Assistants
-- And more...
+- - [ChatGPT Alternatives](https://aireviewbattle.com/ai-tools-marketplace/ai-assistants/ai-tool-comparison-chatgpt/)
+- [AI Image Generators](https://aireviewbattle.com/product-category/ai-art-generators/)
+- [AI Code Assistants](https://aireviewbattle.com/product-category/ai-coding-assistants/)
+- [AI Guides & Prompts](https://aireviewbattle.com/category/ai-guides-prompts/)
